@@ -16,12 +16,13 @@
 <hr>
 </div>
 <div style="display: inline_block">
-<h1 align="center"> Current GitHub Stats 📊 </h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=helloisasilva&show_icons=true&count_private=true,prs&cache_seconds=86400&theme=radical" alt="helloisasilva" /></p>
   
-<img height=180px src="https://github-readme-stats.vercel.app/api?username=helloisasilva&show_icons=true&count_private=true,prs&cache_seconds=86400&theme=radical">
-<img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloisasilva&theme=radical&include_all_commits=true&count_private=true&layout=compact">
-<img heigth=180px src="http://github-readme-streak-stats.herokuapp.com?user=helloisasilva&theme=radical&date_format=j%20M%5B%20Y%5D">
+<h1 align="center"> Current GitHub Stats 📊 </h1>
+<div style="display:inline-block; align-items:center;">
+<a href="https://github.com/helloisasilva?tab=repositories"><img height=180px src="https://github-readme-stats.vercel.app/api?username=helloisasilva&show_icons=true&count_private=true,prs&theme=radical"></a>
+<a href="https://github.com/helloisasilva"><img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloisasilva&layout=compact&theme=radical"></a>
+<p ><img align="rigth" src="http://github-readme-streak-stats.herokuapp.com?user=helloisasilva&theme=radical&date_format=j%20M%5B%20Y%5D">
+  
 </div> 
 
 
